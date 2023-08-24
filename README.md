@@ -1,0 +1,1 @@
+this is a react/redux toolkit frontend component of a MERN application. the backend is on github, https://github.com/jeghosa/nodejs-typescript.git. Run "/server/node app.js" to start the server and "/tscr/treact/npm start" for the frontend app
